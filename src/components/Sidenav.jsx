@@ -17,7 +17,7 @@ function Sidenav({ isOpen, close }) {
           <li className="mb-3">WOMEN</li>
           <li className="mb-3">OUTWEAR</li>
           <li className="mb-3">BLOG</li>
-          <li className="mb-3">CONTACT</li>
+          <li className="mb-3">CONTACTS</li>
           </ul>
           </div>
         
